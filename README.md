@@ -113,4 +113,4 @@ Please let me know how I can improve this project. Issues and pull requests are 
 # Questions 
 
 If you have any questions about the repo, 
-contact me directly at [Email](mailto:khandkegauri@gmail.com).
+contact me directly at [Email](gurjant3oct@gmail.com).
