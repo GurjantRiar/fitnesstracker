@@ -17,7 +17,7 @@ Fitness Tracker application to track the distance, duration, and exercises of a 
 * [Questions](#questions)
 
 # Deployed Website: 
-[Fitness Tracker](https://gauri-fitness-tracker.herokuapp.com/)
+[Fitness Tracker](https://fittnestracker.herokuapp.com/)
 
 # Screenshot :
 
